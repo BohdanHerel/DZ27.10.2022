@@ -1,0 +1,18 @@
+p {
+	margin-bottom: 40px; 
+}
+	
+.test-1 {
+	font-weight: 600;
+	font-size: 18px; 
+	font-family: Arial,sans-serif;
+	
+}
+.test-2 {
+	font-weight: 400;
+	font-size: 14px; 
+	font-family: Arial,sans-serif;
+}
+div {
+	text-align:right;
+}
